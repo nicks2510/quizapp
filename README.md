@@ -14,4 +14,8 @@ Features of ES6 and React used:
 5: Spread operator
 6: Destructuring
 7: Arrow Functions
-8: 
+
+User Responsive for all types of screens
+
+Used dummy data from the response of the API as API is having specials characters.
+
