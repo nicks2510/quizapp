@@ -6,7 +6,7 @@
       "category": "Entertainment: Video Games",
       "type": "boolean",
       "difficulty": "hard",
-      "question": "The retail disc of Tony Hawk&#039;s Pro Skater 5 only comes with the tutorial.",
+      "question": "The retail disc of Tony Hawk's Pro Skater 5 only comes with the tutorial.",
       "correct_answer": "True",
       "incorrect_answers": [
         "False"
@@ -17,7 +17,7 @@
       "category": "General Knowledge",
       "type": "boolean",
       "difficulty": "hard",
-      "question": "&quot;Number 16 Bus Shelter&quot; was a child&#039;s name that was approved by the New Zealand government.",
+      "question": "'Number 16 Bus Shelter' was a child's name that was approved by the New Zealand government.",
       "correct_answer": "True",
       "incorrect_answers": [
         "False"
@@ -28,7 +28,7 @@
       "category": "Entertainment: Video Games",
       "type": "boolean",
       "difficulty": "hard",
-      "question": "In &quot;Portal 2&quot;, Cave Johnson started out Aperture Science as a shower curtain company.",
+      "question": "In 'Portal 2', Cave Johnson started out Aperture Science as a shower curtain company.",
       "correct_answer": "True",
       "incorrect_answers": [
         "False"
@@ -39,7 +39,7 @@
       "category": "Entertainment: Video Games",
       "type": "boolean",
       "difficulty": "hard",
-      "question": "In Undertale, having a &quot;Fun Value&quot; set to 56-57 will play the &quot;Wrong Number Song Call&quot;.",
+      "question": "In Undertale, having a 'Fun Value' set to 56-57 will play the 'Wrong Number Song Call'.",
       "correct_answer": "False",
       "incorrect_answers": [
         "True"
@@ -72,7 +72,7 @@
       "category": "General Knowledge",
       "type": "boolean",
       "difficulty": "hard",
-      "question": "Stagecoach owned &quot;South West Trains&quot; before losing the rights to FirstGroup and MTR in March of 2017.",
+      "question": "Stagecoach owned 'South West Trains' before losing the rights to FirstGroup and MTR in March of 2017.",
       "correct_answer": "True",
       "incorrect_answers": [
         "False"
@@ -83,7 +83,7 @@
       "category": "Science: Mathematics",
       "type": "boolean",
       "difficulty": "hard",
-      "question": "L&#039;H&ocirc;pital was the mathematician who created the homonymous rule that uses derivatives to evaluate limits with indeterminations.",
+      "question": "L'Hôpital was the mathematician who created the homonymous rule that uses derivatives to evaluate limits with indeterminations.",
       "correct_answer": "False",
       "incorrect_answers": [
         "True"

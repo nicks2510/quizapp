@@ -5,6 +5,8 @@ import {
     SET_ERROR,
     SET_SHOW_RESULTS,
     RESET_QUIZ,
+    START_QUIZ,
+    CORRECT_ANS_COUNT
 } from './types.js';
 
 function quizReducer(state, action) {
@@ -42,6 +44,16 @@ function quizReducer(state, action) {
                 currentAnswer: '',
                 showResults: false,
                 error: '',
+            };
+        case START_QUIZ:
+            return {
+                ...state,
+                startQuizFlag: action.startQuizFlag,
+            };
+        case CORRECT_ANS_COUNT:
+            return {
+                ...state,
+                correctAnsCount: action.correctAnsCount,
             };
         default:
             return state;
